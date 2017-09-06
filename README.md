@@ -3,7 +3,13 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
+
+step1
+
 ## Purpose
+
+step2
+
 ## How To Contribute
 ## Deployment
 
